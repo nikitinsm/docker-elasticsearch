@@ -1,0 +1,4 @@
+elasticsearch:
+  build: .
+  ports:
+    - "9292:9200"
