@@ -1,5 +1,4 @@
 FROM elasticsearch:latest
-MAINTAINER Brandfolder, Inc. <developers@brandfolder.com>
 
 ENV ES_HOME /usr/share/elasticsearch
 ENV PATH $ES_HOME/bin:$PATH
